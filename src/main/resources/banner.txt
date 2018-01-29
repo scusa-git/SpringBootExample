@@ -1,0 +1,3 @@
+${Ansi.RED}  EXAMPLES
+
+${Ansi.GREEN} :: Spring Boot${spring-boot.formatted-version} :: ${Ansi.DEFAULT}
